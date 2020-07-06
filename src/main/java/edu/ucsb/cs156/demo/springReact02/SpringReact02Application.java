@@ -1,4 +1,4 @@
-package edu.ucsb.cs156.demo.springReact02;
+package edu.ucsb.cs156.demo.springreact02;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,3 +11,5 @@ public class SpringReact02Application {
 	}
 
 }
+
+

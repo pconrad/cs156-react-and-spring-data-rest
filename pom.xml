@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.ucsb.cs156.demo</groupId>
-	<artifactId>springReact02</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>springReact02</name>
+	<artifactId>springreact02</artifactId>
+	<version>0.0.1</version>
+	<name>springreact02</name>
 	<description>Code from https://spring.io/guides/tutorials/react-and-spring-data-rest/</description>
 
 	<properties>
